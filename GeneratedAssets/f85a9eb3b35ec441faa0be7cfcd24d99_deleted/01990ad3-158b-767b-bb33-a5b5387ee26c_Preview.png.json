@@ -1,0 +1,11 @@
+{
+    "asset": "f85a9eb3b35ec441faa0be7cfcd24d99",
+    "fileName": "01990ad3-158b-767b-bb33-a5b5387ee26c_Preview.png",
+    "prompt": "PipeCity a-la Mario style for Flappy Bird; Dark CyberPunk , Very grim, Distopia, Pixel Art, Background, Scrollable, Dark Sky",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1257855860,
+    "w3CTraceId": "08718bfcecb0c3749783a088eb35b637",
+    "refinementMode": "Generation"
+}
